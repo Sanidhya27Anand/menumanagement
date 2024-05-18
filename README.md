@@ -10,8 +10,8 @@ Setup Instructions
 Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/menu-management-backend.git
-cd menu-management-backend
+git clone put the url here
+cd menu management
 ```
 Install Dependencies
 ```
