@@ -1,4 +1,4 @@
-# menumanagement
+# menu management
 This Node.js server provides APIs to manage a menu system with categories, sub-categories, and items. It includes functionality for creating, retrieving, updating, and deleting menu items, along with searching items by name.
 
 Features
