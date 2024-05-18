@@ -7,6 +7,14 @@ Search Functionality: Search items by their name.
 Flexible Database Support: Choose your database (I used MongoDB) for data storage.
 Built with Node.js and Express: Uses Node.js for server-side logic and Express.js for routing and middleware.
 Setup Instructions
+if other users want to run the project locally, you will have to run 
+```
+npm i
+```
+before 
+```
+ng serve
+```
 Clone the Repository:
 
 ```
